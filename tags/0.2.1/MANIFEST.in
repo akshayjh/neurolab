@@ -1,0 +1,5 @@
+﻿include README
+include CHANGELOG
+
+recursive-include example *.py
+recursive-include doc *.py *.rst *.html *.png *.txt *.css *.js
